@@ -6,13 +6,13 @@ logo:
 url:		
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: "Zayn Malik"
-  avatar: zayn.jpg
-  bio: "I am Zayn."
-  email: "zayn_malik@ncsu.edu"
+  name: Zayn Malik
+  avatar: zayn_yawn.png
+  bio: I am Zayn.
+  email: zayn_malik@ncsu.edu
   disqus-shortname:
-  twitter: "@zaynmalik"
-  facebook: "zayn"
+  twitter: @zaynmalik
+  facebook: zayn
   google:
     plus: #username
     analytics:
