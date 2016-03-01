@@ -1,18 +1,18 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Zayn Malik
 locale:           en_US
 logo:
 url:		
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: "Zayn Malik"
+  avatar: zayn.jpg
+  bio: "I am Zayn."
+  email: "zayn_malik@ncsu.edu"
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: "@zaynmalik"
+  facebook: "zayn"
   google:
     plus: #username
     analytics:
