@@ -3,22 +3,13 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Singer | Songwriter
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+Tong High School
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-
-## Awards
-
-`2012`
-Name of Award, Organization 
+Lower Fields Primary School
 
 ## Publications
 
@@ -55,11 +46,10 @@ __Current Job Title__, Current Employer
 - Task
 - Task
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2010-2015`
+__One Direction__
 
-- Task
-- Task
+- Singer
 
 
 
